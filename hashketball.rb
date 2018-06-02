@@ -127,7 +127,7 @@ def num_points_scored(player_name)
   end
   points
 end  
-
+ 
 def shoe_size(player_name)
   game = game_hash
   size = nil
